@@ -84,8 +84,8 @@ h2 {
 
 .btn-jogar:hover {
 
-    color: #fff;
-    background-color: var(--winner-color);
+    color: #ffffff;
+    background-color: var(--bg-color);
     cursor: pointer;
 }
 
